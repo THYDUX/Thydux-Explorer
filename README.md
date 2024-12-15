@@ -1,3 +1,5 @@
+![THYDUX](https://github.com/trustwallet/assets/workflows/Check/badge.svg)
+
 **Thydux/explore**
 The Thydux/explore repository is the blockchain explorer of the Thydux ecosystem, providing a user-friendly interface to navigate and interact with the Thydux blockchain. This repository contains tools, resources, and APIs to explore blocks, transactions, accounts, and tokens like the native DUX token. It is an essential tool for developers, users, and stakeholders to gain insights into the Thydux blockchain’s real-time activity and historical data.
 
