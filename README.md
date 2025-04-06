@@ -40,7 +40,7 @@ How to Use
 Clone the Repository
 
 bash
-git clone [https://github.com/THYDUX/Thydux-Explorer.git](https://github.com/THYDUX-HTML/Thydux-web)
+git clone [https://github.com/THYDUX/Thydux-Explorer.git](https://github.com/THYDUX/Thydux-Document)
 cd Thydux-Explorer
 Install Dependencies
 
